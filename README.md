@@ -1,2 +1,2 @@
 # russian_coronavirus_tweets
-Analyzing COVID-19 Russian-language tweets
+Using R to analyze sentiment and term trends with data collected from OSoME.
